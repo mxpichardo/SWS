@@ -5,7 +5,7 @@ print(custom_fig.renderText('SWS'))
 def startmassage():
     print("#"+"*"*77+"#")
     print("| Script Name : Scan Web Security (SWS)|")
-    print("| About Me    :[ Hector Pichardo ] -CyberSecurity Engineer |")
+    print("| About Me    :[ 5plint3r ] -CyberSecurity Engineer |")
     print("| About Me    :Security engenier] |")
     print("#"+"*"*77+"#")
     print("\n")
